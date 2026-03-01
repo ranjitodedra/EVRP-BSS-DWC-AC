@@ -1,0 +1,4 @@
+run_id,objective,total_time_h,total_distance_km,energy_consumed_kWh,energy_charged_static_kWh,energy_charged_dynamic_kWh,final_battery_kWh,final_battery_pct,packages_delivered,num_charging_stops,runtime_s,route
+1,-2.658226,0.2000,10.0000,2.7837,0.0000,0.0000,97.2163,97.2,1,0,0.00,D -> L1 -> D
+2,-2.658226,0.2000,10.0000,2.7837,0.0000,0.0000,97.2163,97.2,1,0,0.00,D -> L1 -> D
+3,-2.658226,0.2000,10.0000,2.7837,0.0000,0.0000,97.2163,97.2,1,0,0.00,D -> L1 -> D
